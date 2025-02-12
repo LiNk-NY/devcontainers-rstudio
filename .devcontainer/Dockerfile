@@ -1,1 +1,1 @@
-FROM bioconductor/bioconductor_docker:${VARIANT}
+FROM bioconductor/bioconductor_docker:${VERSION}
